@@ -1,0 +1,17 @@
+﻿  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  gameplay.cpp
+  Player2.cpp
+d:\abdul\documents\cosc 4f00\assignment 2\connect4\connect4\player2.cpp(55): warning C4018: '<': signed/unsigned mismatch
+d:\abdul\documents\cosc 4f00\assignment 2\connect4\connect4\player2.cpp(56): warning C4018: '<': signed/unsigned mismatch
+d:\abdul\documents\cosc 4f00\assignment 2\connect4\connect4\player2.cpp(63): warning C4018: '<': signed/unsigned mismatch
+d:\abdul\documents\cosc 4f00\assignment 2\connect4\connect4\player2.cpp(66): warning C4018: '<': signed/unsigned mismatch
+d:\abdul\documents\cosc 4f00\assignment 2\connect4\connect4\player2.cpp(97): warning C4018: '<': signed/unsigned mismatch
+d:\abdul\documents\cosc 4f00\assignment 2\connect4\connect4\player2.cpp(100): warning C4018: '<': signed/unsigned mismatch
+  Connect4.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Player1.cpp
+  Board.cpp
+  Connect4.vcxproj -> D:\Abdul\Documents\COSC 4F00\Assignment 2\Connect4\Debug\Connect4.exe
+  Connect4.vcxproj -> D:\Abdul\Documents\COSC 4F00\Assignment 2\Connect4\Debug\Connect4.pdb (Partial PDB)
